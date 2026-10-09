@@ -1,6 +1,5 @@
 # Felipe Sepúlveda
 
-<img src="picture1.jpg" alt="Portrait of Felipe Sepúlveda" align="right" width="170">
 
 **PhD Candidate in Economics** · [Vancouver School of Economics](https://economics.ubc.ca), University of British Columbia (expected August 2028)
 PhD Fellow (2026–2028) at the [Stone Centre on Wealth and Income Inequality](https://stonecentre.economics.ubc.ca/)
